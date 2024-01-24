@@ -1,5 +1,5 @@
 # Segue Mouse
-Rostinho que segue o mouse com os olhos
+Rostinho que segue o mouse com os  feito em java
 
 ![Segue Mouse](https://github.com/Prof-Diana/SegueMouse/blob/main/20220802_204652.gif)
 
